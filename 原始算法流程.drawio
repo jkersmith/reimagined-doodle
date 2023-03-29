@@ -1,20 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T01:59:10.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1IEYwol4QTWw-jICCL3-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T02:13:11.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="k1t-39Vt-9H7cbeFFnQ6" version="21.1.1" type="github">
   <diagram name="第 1 页" id="PiPokklhCkE811HuMij5">
     <mxGraphModel dx="1050" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="727" y="270" width="117" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="Mir_E7Igg_2pSfrO82Oi-1" value="Img 0&lt;br&gt;&lt;br&gt;Img 1&lt;br&gt;&lt;br&gt;Img 2&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="90" height="150" as="geometry" />
+          <mxGeometry x="110" y="80" width="90" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Mir_E7Igg_2pSfrO82Oi-2" value="时&lt;br&gt;间&lt;br&gt;差&lt;br&gt;分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="105" width="56" height="100" as="geometry" />
+          <mxGeometry x="256" y="105" width="56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mir_E7Igg_2pSfrO82Oi-3" value="Img&#39; 1&lt;br&gt;&lt;br&gt;Img&#39; 2&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img&#39; k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="382" y="80" width="90" height="150" as="geometry" />
+          <mxGeometry x="360" y="80" width="90" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Mir_E7Igg_2pSfrO82Oi-4" value="分&lt;br&gt;区&lt;br&gt;量&lt;br&gt;化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="105" width="56" height="100" as="geometry" />
+          <mxGeometry x="509" y="105" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-5" value="Img&lt;sup&gt;q&lt;/sup&gt; 1&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt; 2&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt; k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-6" value="保留数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="498" y="40" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-7" value="采&lt;br&gt;样&lt;br&gt;训&lt;br&gt;练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="105" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-8" value="Img&lt;sup&gt;q&lt;/sup&gt; 1&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt; 2&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt;&amp;nbsp;3" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="742" y="287" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-9" value="Img&lt;sup&gt;q&lt;/sup&gt;&amp;nbsp;k-3&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt;&amp;nbsp;k-2&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt;&amp;nbsp;k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="742" y="470" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mir_E7Igg_2pSfrO82Oi-9" target="Mir_E7Igg_2pSfrO82Oi-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="500" as="sourcePoint" />
+            <mxPoint x="434" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-12" value="model" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="137.5" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-13" value="模&lt;br&gt;型&lt;br&gt;预&lt;br&gt;测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="889" y="314.5" width="41" height="285.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-14" value="计&lt;br&gt;算&lt;br&gt;概&lt;br&gt;率&lt;br&gt;距&lt;br&gt;离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637" y="600" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-15" value="Img&lt;sup&gt;q&lt;/sup&gt; 1&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt; 2&lt;br&gt;&lt;br&gt;Img&lt;sup&gt;q&lt;/sup&gt;&amp;nbsp;3" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="497" y="287" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-16" value="Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;r&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;4&lt;br&gt;&lt;br&gt;Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;r&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;5&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;r&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="575" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-17" value="分&lt;br&gt;区&lt;br&gt;量&lt;br&gt;化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-18" value="Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;rq&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;4&lt;br&gt;&lt;br&gt;Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;rq&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;5&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;rq&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="300" y="575" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-19" value="Huffman&lt;br&gt;编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-20" value="Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;c&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;4&lt;br&gt;&lt;br&gt;Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;c&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;5&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;c&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="70" y="575" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-21" value="保留数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
