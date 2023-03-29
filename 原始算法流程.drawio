@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T01:58:34.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3o3DFPMrBGyTqhGBGTsD" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T01:59:10.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1IEYwol4QTWw-jICCL3-" version="21.1.1" type="github">
   <diagram name="第 1 页" id="PiPokklhCkE811HuMij5">
     <mxGraphModel dx="1050" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="Mir_E7Igg_2pSfrO82Oi-3" value="Img&#39; 1&lt;br&gt;&lt;br&gt;Img&#39; 2&lt;br&gt;.&lt;br&gt;.&lt;br&gt;.&lt;br&gt;Img&#39; k-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="382" y="80" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mir_E7Igg_2pSfrO82Oi-4" value="分&lt;br&gt;区&lt;br&gt;量&lt;br&gt;化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="105" width="56" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
